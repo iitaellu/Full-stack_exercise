@@ -1,0 +1,25 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Exersice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iitaellu/Full-stack_exercise.git"
+  },
+  "author": "Ida kirveskoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iitaellu/Full-stack_exercise/issues"
+  },
+  "homepage": "https://github.com/iitaellu/Full-stack_exercise#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
