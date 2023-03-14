@@ -11,4 +11,7 @@ console.log(path.dirname(__filename));
 console.log(path.extname(__filename));
 
 // Create path obect
-console.log(path.parse(__filename));
+console.log(path.parse(__filename).base);
+
+// concaatenate paths
+console.log(path.join(__dirname,'test', 'hello.html'))
