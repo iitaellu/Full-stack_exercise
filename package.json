@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Exersice",
   "main": "index.js",
+  "homepage": "https://iitaellu.github.io/Full-stack_exercise",
   "scripts": {
     "start": "node index",
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,8 +18,9 @@
   "bugs": {
     "url": "https://github.com/iitaellu/Full-stack_exercise/issues"
   },
-  "homepage": "https://github.com/iitaellu/Full-stack_exercise#readme",
+
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
