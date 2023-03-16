@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Exersice",
   "main": "index.js",
-  "homepage": "https://iitaellu.github.io/Full-stack_exercise/",
+  "homepage": "https://iitaellu.github.io/Full-stack_exercise",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
