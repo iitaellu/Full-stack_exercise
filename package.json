@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d public"
   },
   "repository": {
     "type": "git",
